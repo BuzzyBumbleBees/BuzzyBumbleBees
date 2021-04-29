@@ -8,8 +8,6 @@
 - 😄 Pronouns: Bee/Bees/Beeself
 - ⚡ Fun fact: e 
 
-
-something for a new branch
 <!--
 **Gamemodeon123/gamemodeon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
