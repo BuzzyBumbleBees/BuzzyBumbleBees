@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with e
 - 💬 Ask me about Minecraft Bees
 - 📫 How to reach me: Discord
-- 😄 Pronouns: He/She
+- 😄 Pronouns: Bee/Bees/Beeself
 - ⚡ Fun fact: e 
 
 <!--
