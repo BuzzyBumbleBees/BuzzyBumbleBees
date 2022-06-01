@@ -8,8 +8,9 @@
 - 🤔 I’m looking for help with e
 - 💬 Ask me about Minecraft Bees
 - 📫 How to reach me: Discord
-- 😄 Pronouns: Bee/Bees/Beeself
 - ⚡ Fun fact: e 
+
+![20220526_212545](https://user-images.githubusercontent.com/57966219/171327583-c68a1412-06af-4318-bd71-3556e23b70f9.jpg)
 
 <!--
 **Gamemodeon123/gamemodeon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
